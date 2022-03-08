@@ -1,5 +1,5 @@
 *.exe
 /taget/
-*.settings
-*.project
-*.classpath
+/.settings/
+.project
+.classpath
