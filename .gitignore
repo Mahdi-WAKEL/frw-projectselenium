@@ -1,6 +1,6 @@
 *.exe
-/taget/
+/target/
 /.settings/
-.project
-.classpath
-test
+/.project
+/.classpath
+/test
