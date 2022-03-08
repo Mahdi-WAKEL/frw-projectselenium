@@ -1,0 +1,13 @@
+C:\Users\m.wakel\eclipse-workspace\frw-cucumber-automated-test\src\test\java\com\e2eTests\automatedTests\authentication\pageObjects\AuthenticationPage.java
+C:\Users\m.wakel\eclipse-workspace\frw-cucumber-automated-test\src\test\java\com\e2eTests\automatedTests\utils\EdgeDriverManager.java
+C:\Users\m.wakel\eclipse-workspace\frw-cucumber-automated-test\src\test\java\com\e2eTests\automatedTests\utils\DriverManagerFactory.java
+C:\Users\m.wakel\eclipse-workspace\frw-cucumber-automated-test\src\test\java\com\e2eTests\automatedTests\TestRunner.java
+C:\Users\m.wakel\eclipse-workspace\frw-cucumber-automated-test\src\test\java\com\e2eTests\automatedTests\utils\CommonMethods.java
+C:\Users\m.wakel\eclipse-workspace\frw-cucumber-automated-test\src\test\java\com\e2eTests\automatedTests\utils\DriverManager.java
+C:\Users\m.wakel\eclipse-workspace\frw-cucumber-automated-test\src\test\java\com\e2eTests\automatedTests\authentication\stepDefinitions\AuthenticationStepDefinition.java
+C:\Users\m.wakel\eclipse-workspace\frw-cucumber-automated-test\src\test\java\com\e2eTests\automatedTests\utils\Setup.java
+C:\Users\m.wakel\eclipse-workspace\frw-cucumber-automated-test\src\test\java\com\e2eTests\automatedTests\buzz\pageObjects\BuzzPage.java
+C:\Users\m.wakel\eclipse-workspace\frw-cucumber-automated-test\src\test\java\com\e2eTests\automatedTests\utils\FirefoxDriverManager.java
+C:\Users\m.wakel\eclipse-workspace\frw-cucumber-automated-test\src\test\java\com\e2eTests\automatedTests\utils\DriverType.java
+C:\Users\m.wakel\eclipse-workspace\frw-cucumber-automated-test\src\test\java\com\e2eTests\automatedTests\buzz\stepDefinitions\BuzzStepDefinition.java
+C:\Users\m.wakel\eclipse-workspace\frw-cucumber-automated-test\src\test\java\com\e2eTests\automatedTests\utils\ChromeDriverManager.java

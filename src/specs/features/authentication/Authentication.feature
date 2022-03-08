@@ -8,4 +8,4 @@ Feature: Authentification - OrangeHRM
     When Je saisis le username "Admin"
     And Je saisis le password "admin123"
     And Je clique sur le boutton LOGIN
-    Then Je me redirige vers la page home
+    Then Je me redirige vers la page home "Welcome"
