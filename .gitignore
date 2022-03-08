@@ -1,6 +1,5 @@
 *.exe
 /target/
-/.settings/
-/.project
-/.classpath
-/test
+*.settings
+*.project
+*.classpath
